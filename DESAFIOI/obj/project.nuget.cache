@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KbWXJrgt+JEWuPHncqfFk73AOD6pWC7Y/wMZyYqqhxjVEHpyJCEkJqpHQfaqRnONmfPH8pomIXbH6ty0zniyNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marques\\source\\repos\\DESAFIOI\\DESAFIOI\\DESAFIOI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marques\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Marques\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
